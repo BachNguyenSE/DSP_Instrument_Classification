@@ -16,7 +16,6 @@ N_MFCC: int = 20
 # Danh sách các class nhạc cụ
 INSTRUMENT_CLASSES = [
     "Drum",
-    "Flute",
     "Guitar",
     "Piano",
     "Violin",

@@ -15,7 +15,7 @@ RAW_DIR   = PROJECT_ROOT / "data" / "raw"   # output
 RAW_DIR.mkdir(parents=True, exist_ok=True)
 
 # ====== CONFIG ======
-INSTRUMENTS = ["Drum", "Flute", "Guitar", "Piano", "Violin", "Tambourine"]  # loại nhạc cụ muốn lấy
+INSTRUMENTS = ["Drum", "Guitar", "Piano", "Violin", "Tambourine"]  # loại nhạc cụ muốn lấy
 MAX_PER_CLASS = 200   # số file mỗi loại
 
 # ====== LOAD METADATA ======

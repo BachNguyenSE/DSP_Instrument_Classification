@@ -222,6 +222,14 @@ if uploaded_file is not None:
             ax_fft.set_title('Frequency Spectrum (FFT)')
             st.pyplot(fig_fft)
 
+            # Hiển thị ma trận FFT (frequency & magnitude)
+            st.markdown('**FFT Matrix (Frequency & Magnitude, first 512 values):**')
+            fft_df = pd.DataFrame({
+                'Frequency (Hz)': fft_freq[:min(512, half)],
+                'Magnitude': magnitude[:min(512, half)]
+            })
+            st.dataframe(fft_df.style.format(precision=4), height=300, use_container_width=True)
+
             # 4. Spectrogram (dB)
             st.subheader("4. Spectrogram (dB)")
             st.write("Phổ tần số theo thời gian (3 giây đầu, sau lọc).")
