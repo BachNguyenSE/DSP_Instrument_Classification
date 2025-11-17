@@ -133,28 +133,6 @@ This is a complete project on Digital Signal Processing (DSP) combined with Mach
 - Real-time processing, REST API
 - Upgrade UI/UX, add auto-explanation
 
----
-
-## 📝 PRESENTATION CHECKLIST
-
-- ✅ Introduce project & objectives
-- ✅ Explain DSP pipeline
-- ✅ Demo upload & audio analysis
-- ✅ Show visualizations (Waveform, FFT, Spectrogram, MFCC)
-- ✅ Show classification results & probabilities
-- ✅ Discuss results & future directions
-
----
-
-## 💡 PRESENTATION TIPS
-
-- Emphasize clear DSP pipeline
-- Explain each step with images
-- Clear, well-commented code
-- Live demo
-- Show performance, confusion matrix
-
----
 
 **This is a complete, professional project, ready to present!**
 # 🎵 INSTRUMENT CLASSIFICATION - DSP PROJECT
@@ -228,16 +206,6 @@ This is a complete project on Digital Signal Processing (DSP) combined with Mach
 
 ---
 
-## 🎓 ĐIỂM NỔI BẬT CHO BÁO CÁO
-
-- ✅ Áp dụng đầy đủ kiến thức DSP: lọc, chuyển miền, đặc trưng
-- ✅ Kết hợp Machine Learning (SVM)
-- ✅ Visualization trực quan từng bước
-- ✅ UI đẹp, dễ dùng, chuyên nghiệp
-- ✅ Pipeline rõ ràng, dễ mở rộng
-
----
-
 ## 📈 KẾT QUẢ
 
 ### Model Performance:
@@ -270,37 +238,4 @@ This is a complete project on Digital Signal Processing (DSP) combined with Mach
 - Digital Signal Processing (Smith): https://www.dspguide.com/
 - Scikit-learn: https://scikit-learn.org/
 - Streamlit: https://streamlit.io/
-
 ---
-
-## 🎯 HƯỚNG PHÁT TRIỂN
-
-- Thêm nhiều loại nhạc cụ, dữ liệu thực tế
-- Hỗ trợ multi-label (nhiều nhạc cụ cùng lúc)
-- Triển khai real-time, REST API
-- Nâng cấp UI/UX, thêm giải thích tự động
-
----
-
-## 📝 CHECKLIST CHO PRESENTATION
-
-- ✅ Giới thiệu project & mục tiêu
-- ✅ Giải thích pipeline DSP
-- ✅ Demo upload & phân tích audio
-- ✅ Show visualizations (Waveform, FFT, Spectrogram, MFCC)
-- ✅ Show kết quả phân loại & xác suất
-- ✅ Thảo luận kết quả & hướng phát triển
-
----
-
-## 💡 TIPS CHO BÁO CÁO
-
-- Nhấn mạnh pipeline DSP rõ ràng
-- Giải thích từng bước bằng hình ảnh
-- Code rõ ràng, có comment
-- Demo chạy thực tế
-- Show performance, confusion matrix
-
----
-
-**Đây là một project hoàn chỉnh, chuyên nghiệp, sẵn sàng trình bày!**
