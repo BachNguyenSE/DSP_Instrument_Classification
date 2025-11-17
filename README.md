@@ -21,6 +21,7 @@ pip install -r requirements.txt
 ```
 
 ## Data Preparation
+- Link dataset: https://www.kaggle.com/datasets/abdulvahap/music-instrunment-sounds-for-classification?resource=download
 - Place audio files into subfolders under `data/raw/<Instrument>/`
 - Each instrument should have its own folder: Drum, Flute, Guitar, Piano, Violin, Tambourine, ...
 
