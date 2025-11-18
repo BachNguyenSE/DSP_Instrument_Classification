@@ -1,12 +1,7 @@
 ### Dataset:
-- **Number of samples**: Depending on actual data (about 100 files per class)
+- **Number of samples**: Depending on actual data (about 3800 files per class)
 - **Train/Test Split**: 80/20
 - **You can also use sample files in the `data/test/` folder for quick testing.**
-### Dữ liệu:
-- **Số lượng samples**: Tùy theo dữ liệu thực tế (mỗi class ~100 file)
-- **Train/Test Split**: 80/20
-- **Hoặc có thể lấy file mẫu trong thư mục `data/test/` để chạy thử nghiệm nhanh.**
-# ---
 
 # English version below
 
